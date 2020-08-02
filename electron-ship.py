@@ -1,4 +1,3 @@
-import snappy
 import os
 import subprocess
 import shutil
@@ -49,38 +48,31 @@ def BorderCorrection():
 
 def ShipCategory():
     a=1
-    b=-1
+    b=0
     with open('output.csv','r') as csvinput:
-        with open('Final1.csv', 'w') as csvoutput:
-            writer = csv.writer(csvoutput)
+        with open('Final.csv', 'w' ,newline='') as csvoutput:
+            writer = csv.writer(csvoutput, delimiter=',',quotechar='|', quoting=csv.QUOTE_MINIMAL)
             for row in csv.reader(csvinput):
-                b=b+1
-                if(a!=1):
-                    if(float(row[6])>float(row[7])):
-                        ar=float(row[7])
-                    else:
-                        ar=float(row[7])
-
+                if a!=1:
+                    ar=float(row[7])
                 if(a==1):
                     a=a+1
                     writer.writerow(row+['Category','ID'])
                 elif(ar<25):
                     writer.writerow(row+['Fishing_Ship',b])
-                elif(ar>=25 and ar<=50):
+                elif(ar>25 and ar<=50):
                     writer.writerow(row+['Tugs_ship',b])
-                elif(ar>=51 and ar<200):
+                elif(ar>50 and ar<=200):
                     writer.writerow(row+['Passenger_ship',b])
-                elif(ar<=201):
+                elif(ar>200 and ar<=340):
                     writer.writerow(row+['Cargo_or_Tanker_ship',b])
-    df = pd.read_csv('Final1.csv')
-    df.to_csv('Final.csv', index=False)
+                b=b+1
 
 def CsvToJSON():
     print('Generating GEOJSON')    
     os.system('cmd /c "csvjson --lat Latitude --lon Longitude --k Ships --crs EPSG:4269 --indent 4 Final.csv > final.json"')
 
 def RemoveFiles():
-    os.remove("Final1.csv")
     os.remove("final2.csv")
     os.remove("mycsv.csv")
     os.remove("output.csv")
@@ -147,7 +139,6 @@ def TkinterInput():
 def main(): 
     
     minTargetSize,guardWindowSize,PFA=TkinterInput()
-    #set_value()
     print("Target Window min",minTargetSize)
     print("Guard Window max",guardWindowSize)
     print("PFA",PFA)
@@ -157,7 +148,7 @@ def main():
     source=path1+'\\'+path2
     print(source)
     
-    source=r"C:\Users\pahar\SAR\S1A_IW_GRDH_1SDV_20191004T011831_20191004T011856_029302_035471_E23D.zip"
+    source=r"C:\Users\pahar\SAR\S1A_IW_GRDH_1SDV_20200727T235641_20200727T235706_033647_03E64C_8FF6.zip"
     
     path=r"C:\Users\pahar\SAR"
     target=path+r"\target.dim"
