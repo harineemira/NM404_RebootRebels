@@ -6,4 +6,4 @@ Download Datasets from:
 
 Note:
 - Files Larger than 100MB cannot be uploaded in GitHub.
-- This is the First Commit, we will be updating changes regularly.
+- We will be updating changes regularly.
