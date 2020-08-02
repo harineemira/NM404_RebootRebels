@@ -124,7 +124,7 @@ def TkinterInput():
     e2 = tk.Entry(master)
     e3 = tk.Entry(master)
     e1.insert(0,"30")
-    e2.insert(0,"600")
+    e2.insert(0,"500.0")
     e3.insert(0,"12.5")
     e1.grid(row=0, column=1)
     e2.grid(row=1, column=1)
@@ -139,7 +139,6 @@ def TkinterInput():
 def main(): 
     
     minTargetSize,guardWindowSize,PFA=TkinterInput()
-    set_value()
     print("Target Window min",minTargetSize)
     print("Guard Window max",guardWindowSize)
     print("PFA",PFA)
