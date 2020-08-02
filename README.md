@@ -19,7 +19,7 @@ Displays an image showing the region for which SAR Dataset has been provided.
 ## Sea Masking
 <img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/SeaMask.PNG" width="700px">
 
-## Info Window
+## Ship Detection Output
 The ship detections are displayed on the map. Also, CSV and JSON files for the ship detetctions are available on button click.
 
 <img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/GeoJsonMap.PNG" width="700px">
