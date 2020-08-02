@@ -7,6 +7,7 @@ import sys
 from global_land_mask import globe
 import numpy as np
 import pandas as pd
+import tkinter as tk
 
 def CopyCsvMask(path):
     original = os.path.join(path+r"\target.data\vector_data\eez_v11.csv")
@@ -55,7 +56,6 @@ def ShipCategory():
             for row in csv.reader(csvinput):
                 b=b+1
                 if(a!=1):
-                    
                     if(float(row[6])>float(row[7])):
                         ar=float(row[7])
                     else:
@@ -103,9 +103,10 @@ def Calibration(source):
     cmd=["gpt","Calibration","-PsourceBands=Intensity_VH",source]
     subprocess.call(cmd)
     
-def AdaptiveThresholding(source):
+def AdaptiveThresholding(source,minTargetSize,guardWindowSize,PFA):
     print('AdaptiveThresholding')
-    cmd=["gpt","AdaptiveThresholding","-Ppfa=12.5","-PtargetWindowSizeInMeter=30",source]
+    cmd=["gpt","AdaptiveThresholding","-Ppfa="+PFA,"-PtargetWindowSizeInMeter="+minTargetSize,"-PguardWindowSizeInMeter="+guardWindowSize,source]
+    print(cmd)
     subprocess.call(cmd)
     
 def ObjectDiscrimination(source):
@@ -113,13 +114,50 @@ def ObjectDiscrimination(source):
     cmd=["gpt","Object-Discrimination","-PminTargetSizeInMeter=30.0",source]
     subprocess.call(cmd)
     
-def main():
-      
+def TkinterInput():
+    master=tk.Tk()
+    def set_value():
+        global minTargetSize,guardWindowSize,PFA
+        minTargetSize=e1.get()
+        guardWindowSize=e2.get()
+        PFA=e3.get()
+        print("Target Window Size(SET)",minTargetSize)
+        print("Guard Window Size",guardWindowSize)
+        print("PFA",PFA)
+        master.destroy()
+    tk.Label(master,text="Target Window Size").grid(row=0)
+    tk.Label(master,text="Guard Window Size").grid(row=1)
+    tk.Label(master,text="PFA").grid(row=2)
+    e1 = tk.Entry(master)
+    e2 = tk.Entry(master)
+    e3 = tk.Entry(master)
+    e1.insert(0,"30")
+    e2.insert(0,"500.0")
+    e3.insert(0,"12.5")
+    e1.grid(row=0, column=1)
+    e2.grid(row=1, column=1)
+    e3.grid(row=2, column=1)
+    tk.Button(master,text='Enter', command=set_value).grid(row=4,column=1,sticky=tk.W,pady=4)
+    tk.mainloop()
+    print("Target Window Size(TKINTER)",minTargetSize)
+    print("Guard Window Size",guardWindowSize)
+    print("PFA",PFA)
+    return minTargetSize,guardWindowSize,PFA
+
+def main(): 
+    
+    minTargetSize,guardWindowSize,PFA=TkinterInput()
+    #set_value()
+    print("Target Window min",minTargetSize)
+    print("Guard Window max",guardWindowSize)
+    print("PFA",PFA)
+    
     path1=r"C:\Users\pahar\SAR"
     path2=sys.argv[1]
     source=path1+'\\'+path2
     print(source)
-    #source=r"C:\Users\pahar\SAR\S1A_IW_GRDH_1SDV_20191004T011831_20191004T011856_029302_035471_E23D.zip"
+    
+    source=r"C:\Users\pahar\SAR\S1A_IW_GRDH_1SDV_20191004T011831_20191004T011856_029302_035471_E23D.zip"
     
     path=r"C:\Users\pahar\SAR"
     target=path+r"\target.dim"
@@ -139,7 +177,7 @@ def main():
     Calibration(target) 
     print(target)
     
-    AdaptiveThresholding(target)
+    AdaptiveThresholding(target,minTargetSize,guardWindowSize,PFA)
     print(target)
     
     ObjectDiscrimination(target)
