@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+    <script src="sih.js"  type="application/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <title>ISRO</title>
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
+  </head>
+  <body>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10">
+            <div class="custom-file">
+              <input type="file" class="custom-file-input" id="validatedCustomFile" aria-describedby="myInput" required>
+              <label class="custom-file-label" for="validatedCustomFile">Choose file...</label>
+            </div>
+          </div>
+
+          <div class="col-lg-1">
+            <button type="button" class="btn btn-outline-info" onclick="unzippy(),showLoader()" id="myInput">UPLOAD</button>
+          </div>
+
+          <div class="col-lg-1">
+            <div id=loader>
+                <img id="myImage2" src="spinner.gif" width="30" height="30">
+            </div>
+          </div>
+
+         </div>
+        </div>
+      </div>
+
+      <div class="container">
+      <div class="buttons">
+          <button  type="button" class="btn btn-info" onclick="prevw()" style="margin-left:20px">Preview</button>
+          <button type="button" class="btn btn-info" onclick="landmask(),showProgressBar()">Land Mask</button>
+          <button type="button" class="btn btn-info" onclick="seamask(),showProgressBar()">Sea Mask</button>
+          <button type="button" class="btn btn-info" onclick="shipdetection(),showProgressBar()">Ship Detection</button>
+          <!--<button type="button" class="btn btn-outline-secondary" onclick="output()">Output</button>-->
+      </div>   
+      </div>
+      
+      <center>
+      <img id="myImage" src="welcome.jpg" width="700" height="500" class="rounded" alt="Cinque Terre">
+      </center>
+      
+      <div id=progressBar>
+      <div class = "container">
+        <div class="progress">
+          <div class="indeterminate"></div>
+        </div>
+      </div>
+      </div>
+
+      <script>
+        document.querySelector('.custom-file-input').addEventListener('change',function(e){
+        var fileName = document.getElementById("validatedCustomFile").files[0].name;
+        var nextSibling = e.target.nextElementSibling
+        nextSibling.innerText = fileName
+        })
+      </script>
+   </body>
+</html>

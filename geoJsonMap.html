@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+    <script src="sih.js"  type="application/javascript"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+  </head>
+
+ <div class="container">
+    <div class="buttons">
+          <button type="button" class="btn btn-info" onclick="openCSV()">Open CSV</button>
+          <button type="button" class="btn btn-info" onclick="openJSON()">Open GeoJSON</button>
+    </div>   
+  </div> 
+<div id="map1"></div>
+
+<!-- Replace the value of the key parameter with your own API key. -->
+<script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAG_fpzTnKGoosmI2h_xisZEvjXVnUMCzc&callback=initMap"async defer></script>
+<style>html,
+body,
+#map1 {
+  height: 100%;
+  margin: 10;
+  padding: 0;
+}
+</style>
+<script>
+
+var map;
+var infoWindow;
+
+const fs = require('fs');
+var jsonData = JSON.parse(fs.readFileSync('final.json').toString());
+console.log(jsonData);
+function initMap() {
+infoWindow = new google.maps.InfoWindow();
+map = new google.maps.Map(document.getElementById('map1'), {
+    zoom:4,
+    center: new google.maps.LatLng(20.632782,78.977782),
+    mapTypeId: 'hybrid'
+    
+  })
+ 
+  
+map.data.addListener('click', function(event)
+{
+  console.log("popup")
+	let width=event.feature.getProperty('Width');
+  let length=event.feature.getProperty('Length');
+  console.log(width,length);
+	// // position the infowindow on the marker
+	let cat=event.feature.getProperty("Category");
+  let id=event.feature.getProperty('ID');
+ infoWindow.setContent("<html><body><div>ID:"+id+"</div><div> Width:"+width+"</div><div> Length:"+length+"</div> Category:"+cat+"</div></body></html>");
+ //infoWindow.setContent("<html><body><div> aathika </div></body></html>");
+  // anchor the infowindow on the marker
+  infoWindow.setPosition(event.latLng);
+	infoWindow.setOptions({pixelOffset: new google.maps.Size(0,-34)});
+  infoWindow.open(map);
+  
+});
+map.data.addGeoJson(jsonData);
+  map.data.setMap(map);
+}
+</script>
