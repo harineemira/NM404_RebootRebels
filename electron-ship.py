@@ -2,11 +2,34 @@ import os
 import subprocess
 import shutil
 import csv
+import cv2
 import sys
 from global_land_mask import globe
 import numpy as np
 import pandas as pd
 import tkinter as tk
+from PIL import Image, ImageDraw, ImageFont
+Image.MAX_IMAGE_PIXELS = None
+
+def Plotting():
+    img = Image.open('original.png')
+    rgbimg = Image.new("RGBA", img.size)
+    rgbimg.paste(img)
+    rgbimg.save('mid.png')
+
+    image = Image.open('mid.png')
+    draw = ImageDraw.Draw(image)
+    font = ImageFont.truetype('Roboto-Bold.ttf', size=10)
+    name = 'Ship'
+    color = 'rgb(255,255,0)'
+
+    with open('Final.csv', 'r') as readFile:
+        reader = csv.reader(readFile)
+        next(reader)
+        for row in reader:
+            (x,y)=(int(row[2]),int(row[3]))
+            draw.text((x,y), name, fill=color, font=font)
+    image.save('last.png')
 
 def CopyCsvMask(path):
     original = os.path.join(path+r"\target.data\vector_data\eez_v11.csv")
@@ -76,6 +99,8 @@ def RemoveFiles():
     os.remove("final2.csv")
     os.remove("mycsv.csv")
     os.remove("output.csv")
+    os.remove("mid.png")
+    os.remove("eez_v11.csv")
 
 
 def ImportVector(shapefilepath,source):
@@ -147,9 +172,7 @@ def main():
     path2=sys.argv[1]
     source=path1+'\\'+path2
     print(source)
-    
-    source=r"C:\Users\pahar\SAR\S1A_IW_GRDH_1SDV_20200727T235641_20200727T235706_033647_03E64C_8FF6.zip"
-    
+        
     path=r"C:\Users\pahar\SAR"
     target=path+r"\target.dim"
     shapefilepath=r"C:\Users\pahar\SAR\eez_v11.shp"
@@ -164,7 +187,7 @@ def main():
     #Perform Land Masking
     LandSeaMask(target)
     print(target) 
-    
+
     Calibration(target) 
     print(target)
     
@@ -179,6 +202,7 @@ def main():
     ShipCategory()
     CsvToJSON()    
     RemoveFiles()
+    Plotting()
     print('END')
     
 if __name__=="__main__":

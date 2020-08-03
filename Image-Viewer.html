@@ -1,18 +1,16 @@
-
 <!DOCTYPE html>
 <html>
     <head>
         <title>Image Viewer</title>
         <meta charset="UTF-8">
-        <link rel="stylesheet" type="text/css" href="./css/jquery.verySimpleImageViewer.css" >
+        <link rel="stylesheet" type="text/css" href="css/jquery.verySimpleImageViewer.css" >
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-
-        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
         <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-
-        <script src="./js/jquery.verySimpleImageViewer.js"></script>
-        
-        <script>hljs.initHighlightingOnLoad();</script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+        <script src="js/jquery.verySimpleImageViewer.js"></script>        
+        <script>hljs.initHighlightingOnLoad();
+        </script>
         <style>
         table td {
             border-right: 1px solid #ddd;
@@ -26,7 +24,7 @@
         </a>	 -->
         
     <script>
-        var curect_file_path = "pic/greeting.png";
+        var curect_file_path = "last.png";
         $("#imageViewerContainer1").verySimpleImageViewer({
             imageSource: curect_file_path,
             frame: ['100%', '100%'],
