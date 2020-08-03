@@ -1,0 +1,5377 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        68.07737839328159,
+        22.17479706998045,
+        70.42614893169012,
+        23.62478060034433
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (21707 1461)",
+                "X co-ordinate": "21707",
+                "Y co-ordinate": "1461",
+                "Width": "50.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "1"
+            },
+            "id": "target_019",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.43166854319803,
+                    23.62478060034433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (21425 1686)",
+                "X co-ordinate": "21425",
+                "Y co-ordinate": "1686",
+                "Width": "50.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "2"
+            },
+            "id": "target_021",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.45479816495072,
+                    23.599990585017338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (21433 1690)",
+                "X co-ordinate": "21433",
+                "Y co-ordinate": "1690",
+                "Width": "40.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "3"
+            },
+            "id": "target_022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.45389733746168,
+                    23.599721431709625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (21435 1698)",
+                "X co-ordinate": "21435",
+                "Y co-ordinate": "1698",
+                "Width": "60.0",
+                "Length": "80.0",
+                "Category": "Passenger_ship",
+                "ID": "4"
+            },
+            "id": "target_023",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.45356000057815,
+                    23.59903277110465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (21438 1764)",
+                "X co-ordinate": "21438",
+                "Y co-ordinate": "1764",
+                "Width": "70.0",
+                "Length": "90.0",
+                "Category": "Passenger_ship",
+                "ID": "5"
+            },
+            "id": "target_027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.45213584751303,
+                    23.593171952641182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (19199 4179)",
+                "X co-ordinate": "19199",
+                "Y co-ordinate": "4179",
+                "Width": "30.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "9"
+            },
+            "id": "target_100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.624410446665,
+                    23.33946666167358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (295 4836)",
+                "X co-ordinate": "295",
+                "Y co-ordinate": "4836",
+                "Width": "40.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "11"
+            },
+            "id": "target_113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.42614893169012,
+                    22.96391382148893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (19566 4485)",
+                "X co-ordinate": "19566",
+                "Y co-ordinate": "4485",
+                "Width": "60.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "12"
+            },
+            "id": "target_132",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.58356012862538,
+                    23.3177709703584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (19571 4496)",
+                "X co-ordinate": "19571",
+                "Y co-ordinate": "4496",
+                "Width": "30.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "13"
+            },
+            "id": "target_133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.58293905828756,
+                    23.31689692504013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (19578 4499)",
+                "X co-ordinate": "19578",
+                "Y co-ordinate": "4499",
+                "Width": "30.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "14"
+            },
+            "id": "target_134",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.58221187740503,
+                    23.31673938092637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (19841 4628)",
+                "X co-ordinate": "19841",
+                "Y co-ordinate": "4628",
+                "Width": "40.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "15"
+            },
+            "id": "target_139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.55455309207699,
+                    23.30936036709421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (20412 4435)",
+                "X co-ordinate": "20412",
+                "Y co-ordinate": "4435",
+                "Width": "20.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "16"
+            },
+            "id": "target_140",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.5030733275605,
+                    23.335971023015585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (345 4904)",
+                "X co-ordinate": "345",
+                "Y co-ordinate": "4904",
+                "Width": "80.0",
+                "Length": "90.0",
+                "Category": "Passenger_ship",
+                "ID": "17"
+            },
+            "id": "target_141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.42005865493651,
+                    22.95863762989948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (20103 5034)",
+                "X co-ordinate": "20103",
+                "Y co-ordinate": "5034",
+                "Width": "30.0",
+                "Length": "20.0",
+                "Category": "Fishing_Ship",
+                "ID": "18"
+            },
+            "id": "target_144",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.52212877115744,
+                    23.276932834690946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (19204 5238)",
+                "X co-ordinate": "19204",
+                "Y co-ordinate": "5238",
+                "Width": "110.0",
+                "Length": "120.0",
+                "Category": "Passenger_ship",
+                "ID": "19"
+            },
+            "id": "target_147",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.60491803040894,
+                    23.244023710414066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (19113 5237)",
+                "X co-ordinate": "19113",
+                "Y co-ordinate": "5237",
+                "Width": "210.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "20"
+            },
+            "id": "target_148",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.61369175495045,
+                    23.24268339893123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (19225 5255)",
+                "X co-ordinate": "19225",
+                "Y co-ordinate": "5255",
+                "Width": "20.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "21"
+            },
+            "id": "target_149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.6025554293882,
+                    23.242884701355592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3273 5623)",
+                "X co-ordinate": "3273",
+                "Y co-ordinate": "5623",
+                "Width": "40.0",
+                "Length": "10.0",
+                "Category": "Fishing_Ship",
+                "ID": "22"
+            },
+            "id": "target_154",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.12609525772629,
+                    22.94407310761548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (2200 5529)",
+                "X co-ordinate": "2200",
+                "Y co-ordinate": "5529",
+                "Width": "150.0",
+                "Length": "150.0",
+                "Category": "Passenger_ship",
+                "ID": "23"
+            },
+            "id": "target_155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.23061406423896,
+                    22.93416099347866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (2335 5575)",
+                "X co-ordinate": "2335",
+                "Y co-ordinate": "5575",
+                "Width": "30.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "24"
+            },
+            "id": "target_156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.21681810131847,
+                    22.93232908197337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (789 5411)",
+                "X co-ordinate": "789",
+                "Y co-ordinate": "5411",
+                "Width": "240.0",
+                "Length": "140.0",
+                "Category": "Passenger_ship",
+                "ID": "25"
+            },
+            "id": "target_157",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.36784201478049,
+                    22.920483962791728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (608 5507)",
+                "X co-ordinate": "608",
+                "Y co-ordinate": "5507",
+                "Width": "100.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "26"
+            },
+            "id": "target_158",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.38332038731323,
+                    22.908692117527075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (2617 5943)",
+                "X co-ordinate": "2617",
+                "Y co-ordinate": "5943",
+                "Width": "170.0",
+                "Length": "170.0",
+                "Category": "Passenger_ship",
+                "ID": "27"
+            },
+            "id": "target_165",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.18304003652247,
+                    22.903914750073337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (1285 5722)",
+                "X co-ordinate": "1285",
+                "Y co-ordinate": "5722",
+                "Width": "90.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "28"
+            },
+            "id": "target_166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.31457425647797,
+                    22.90094546121495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (1406 5731)",
+                "X co-ordinate": "1406",
+                "Y co-ordinate": "5731",
+                "Width": "60.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "29"
+            },
+            "id": "target_167",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.30279001510715,
+                    22.902266376097522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3400 6198)",
+                "X co-ordinate": "3400",
+                "Y co-ordinate": "6198",
+                "Width": "30.0",
+                "Length": "20.0",
+                "Category": "Fishing_Ship",
+                "ID": "30"
+            },
+            "id": "target_170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.10339839231426,
+                    22.89422779800268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3368 6247)",
+                "X co-ordinate": "3368",
+                "Y co-ordinate": "6247",
+                "Width": "30.0",
+                "Length": "20.0",
+                "Category": "Fishing_Ship",
+                "ID": "31"
+            },
+            "id": "target_171",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.10555910777798,
+                    22.889251598769544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3382 6256)",
+                "X co-ordinate": "3382",
+                "Y co-ordinate": "6256",
+                "Width": "150.0",
+                "Length": "150.0",
+                "Category": "Passenger_ship",
+                "ID": "32"
+            },
+            "id": "target_172",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.10406305725374,
+                    22.88872309620232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3396 6271)",
+                "X co-ordinate": "3396",
+                "Y co-ordinate": "6271",
+                "Width": "70.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "33"
+            },
+            "id": "target_173",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.1024474469833,
+                    22.887607160071703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (2879 6344)",
+                "X co-ordinate": "2879",
+                "Y co-ordinate": "6344",
+                "Width": "90.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "34"
+            },
+            "id": "target_174",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.150573607756,
+                    22.87215841537837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (2300 6276)",
+                "X co-ordinate": "2300",
+                "Y co-ordinate": "6276",
+                "Width": "80.0",
+                "Length": "80.0",
+                "Category": "Passenger_ship",
+                "ID": "35"
+            },
+            "id": "target_175",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.20716574240114,
+                    22.868334048136028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3479 6531)",
+                "X co-ordinate": "3479",
+                "Y co-ordinate": "6531",
+                "Width": "130.0",
+                "Length": "160.0",
+                "Category": "Passenger_ship",
+                "ID": "36"
+            },
+            "id": "target_176",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.08971440361019,
+                    22.865485681578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3237 6677)",
+                "X co-ordinate": "3237",
+                "Y co-ordinate": "6677",
+                "Width": "80.0",
+                "Length": "90.0",
+                "Category": "Passenger_ship",
+                "ID": "37"
+            },
+            "id": "target_186",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.11014125226586,
+                    22.84820114854143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3802 6971)",
+                "X co-ordinate": "3802",
+                "Y co-ordinate": "6971",
+                "Width": "170.0",
+                "Length": "110.0",
+                "Category": "Passenger_ship",
+                "ID": "38"
+            },
+            "id": "target_187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.05073849523556,
+                    22.831297363002786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (17360 6692)",
+                "X co-ordinate": "17360",
+                "Y co-ordinate": "6692",
+                "Width": "50.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "39"
+            },
+            "id": "target_188",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.75651211221864,
+                    23.08284816881115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (17367 6688)",
+                "X co-ordinate": "17367",
+                "Y co-ordinate": "6688",
+                "Width": "40.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "40"
+            },
+            "id": "target_189",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.75586212743255,
+                    23.083331532318763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (17360 6692)",
+                "X co-ordinate": "17360",
+                "Y co-ordinate": "6692",
+                "Width": "50.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "41"
+            },
+            "id": "target_190",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.75651211221864,
+                    23.08284816881115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (20193 6833)",
+                "X co-ordinate": "20193",
+                "Y co-ordinate": "6833",
+                "Width": "30.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "42"
+            },
+            "id": "target_191",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.48202659691157,
+                    23.116082616797772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (20406 6789)",
+                "X co-ordinate": "20406",
+                "Y co-ordinate": "6789",
+                "Width": "70.0",
+                "Length": "100.0",
+                "Category": "Passenger_ship",
+                "ID": "43"
+            },
+            "id": "target_192",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.46232978635379,
+                    23.123494078239474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3858 7087)",
+                "X co-ordinate": "3858",
+                "Y co-ordinate": "7087",
+                "Width": "220.0",
+                "Length": "140.0",
+                "Category": "Passenger_ship",
+                "ID": "44"
+            },
+            "id": "target_193",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.0431949094525,
+                    22.821736539684487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3952 7304)",
+                "X co-ordinate": "3952",
+                "Y co-ordinate": "7304",
+                "Width": "280.0",
+                "Length": "150.0",
+                "Category": "Passenger_ship",
+                "ID": "45"
+            },
+            "id": "target_194",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.03022728189516,
+                    22.803774421381068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3740 7325)",
+                "X co-ordinate": "3740",
+                "Y co-ordinate": "7325",
+                "Width": "190.0",
+                "Length": "170.0",
+                "Category": "Passenger_ship",
+                "ID": "46"
+            },
+            "id": "target_195",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.05016405427753,
+                    22.798243734499607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3986 7092)",
+                "X co-ordinate": "3986",
+                "Y co-ordinate": "7092",
+                "Width": "190.0",
+                "Length": "180.0",
+                "Category": "Passenger_ship",
+                "ID": "47"
+            },
+            "id": "target_196",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.03090562367608,
+                    22.823459195880385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4184 7131)",
+                "X co-ordinate": "4184",
+                "Y co-ordinate": "7131",
+                "Width": "220.0",
+                "Length": "180.0",
+                "Category": "Passenger_ship",
+                "ID": "48"
+            },
+            "id": "target_197",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.01120001639917,
+                    22.823319351755966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4252 7278)",
+                "X co-ordinate": "4252",
+                "Y co-ordinate": "7278",
+                "Width": "220.0",
+                "Length": "100.0",
+                "Category": "Passenger_ship",
+                "ID": "49"
+            },
+            "id": "target_198",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.00199856107415,
+                    22.811194460687453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4077 7308)",
+                "X co-ordinate": "4077",
+                "Y co-ordinate": "7308",
+                "Width": "200.0",
+                "Length": "140.0",
+                "Category": "Passenger_ship",
+                "ID": "50"
+            },
+            "id": "target_199",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.01818785361421,
+                    22.80549925649397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4371 7435)",
+                "X co-ordinate": "4371",
+                "Y co-ordinate": "7435",
+                "Width": "160.0",
+                "Length": "140.0",
+                "Category": "Passenger_ship",
+                "ID": "51"
+            },
+            "id": "target_200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.98773554872079,
+                    22.799035935704218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (15437 7366)",
+                "X co-ordinate": "15437",
+                "Y co-ordinate": "7366",
+                "Width": "40.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "52"
+            },
+            "id": "target_209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.92914918744593,
+                    22.990550637048358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4163 7497)",
+                "X co-ordinate": "4163",
+                "Y co-ordinate": "7497",
+                "Width": "80.0",
+                "Length": "90.0",
+                "Category": "Passenger_ship",
+                "ID": "53"
+            },
+            "id": "target_210",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.00648065759388,
+                    22.789934848857502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4207 7816)",
+                "X co-ordinate": "4207",
+                "Y co-ordinate": "7816",
+                "Width": "80.0",
+                "Length": "80.0",
+                "Category": "Passenger_ship",
+                "ID": "54"
+            },
+            "id": "target_211",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.99630225063792,
+                    22.76183097420537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4259 7875)",
+                "X co-ordinate": "4259",
+                "Y co-ordinate": "7875",
+                "Width": "180.0",
+                "Length": "180.0",
+                "Category": "Passenger_ship",
+                "ID": "55"
+            },
+            "id": "target_212",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.9902276413597,
+                    22.75738952480875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3385 7524)",
+                "X co-ordinate": "3385",
+                "Y co-ordinate": "7524",
+                "Width": "220.0",
+                "Length": "190.0",
+                "Category": "Passenger_ship",
+                "ID": "56"
+            },
+            "id": "target_213",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.08036928474029,
+                    22.77419347992458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6813 7889)",
+                "X co-ordinate": "6813",
+                "Y co-ordinate": "7889",
+                "Width": "50.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "57"
+            },
+            "id": "target_214",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.74575835555665,
+                    22.799571416230265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3600 7525)",
+                "X co-ordinate": "3600",
+                "Y co-ordinate": "7525",
+                "Width": "210.0",
+                "Length": "110.0",
+                "Category": "Passenger_ship",
+                "ID": "58"
+            },
+            "id": "target_215",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.05984243434686,
+                    22.777776966908124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3890 7552)",
+                "X co-ordinate": "3890",
+                "Y co-ordinate": "7552",
+                "Width": "250.0",
+                "Length": "110.0",
+                "Category": "Passenger_ship",
+                "ID": "59"
+            },
+            "id": "target_216",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.03161002152801,
+                    22.78030364826035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3924 7752)",
+                "X co-ordinate": "3924",
+                "Y co-ordinate": "7752",
+                "Width": "190.0",
+                "Length": "200.0",
+                "Category": "Cargo_or_Tanker_ship",
+                "ID": "60"
+            },
+            "id": "target_217",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.02460812128615,
+                    22.762775887840863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (21201 7741)",
+                "X co-ordinate": "21201",
+                "Y co-ordinate": "7741",
+                "Width": "40.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "62"
+            },
+            "id": "target_221",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.36938142687907,
+                    23.050411274262853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (21174 7811)",
+                "X co-ordinate": "21174",
+                "Y co-ordinate": "7811",
+                "Width": "50.0",
+                "Length": "90.0",
+                "Category": "Passenger_ship",
+                "ID": "63"
+            },
+            "id": "target_222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.37079930410823,
+                    23.043701302360965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3356 7978)",
+                "X co-ordinate": "3356",
+                "Y co-ordinate": "7978",
+                "Width": "60.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "64"
+            },
+            "id": "target_223",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.07463415652532,
+                    22.73269365731348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3288 7982)",
+                "X co-ordinate": "3288",
+                "Y co-ordinate": "7982",
+                "Width": "50.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "65"
+            },
+            "id": "target_224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.08110645884547,
+                    22.731159002764148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3410 8259)",
+                "X co-ordinate": "3410",
+                "Y co-ordinate": "8259",
+                "Width": "50.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "67"
+            },
+            "id": "target_226",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.06424632385878,
+                    22.708186438247203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (1629 8016)",
+                "X co-ordinate": "1629",
+                "Y co-ordinate": "8016",
+                "Width": "70.0",
+                "Length": "100.0",
+                "Category": "Passenger_ship",
+                "ID": "68"
+            },
+            "id": "target_228",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.2389970050775,
+                    22.69955465173903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6892 8177)",
+                "X co-ordinate": "6892",
+                "Y co-ordinate": "8177",
+                "Width": "20.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "69"
+            },
+            "id": "target_229",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.73282006201059,
+                    22.774910854557962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6887 8224)",
+                "X co-ordinate": "6887",
+                "Y co-ordinate": "8224",
+                "Width": "40.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "70"
+            },
+            "id": "target_230",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.7324189235277,
+                    22.770537333306688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3562 8216)",
+                "X co-ordinate": "3562",
+                "Y co-ordinate": "8216",
+                "Width": "220.0",
+                "Length": "190.0",
+                "Category": "Passenger_ship",
+                "ID": "71"
+            },
+            "id": "target_231",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.05048756060738,
+                    22.714727637828478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3758 8248)",
+                "X co-ordinate": "3758",
+                "Y co-ordinate": "8248",
+                "Width": "240.0",
+                "Length": "160.0",
+                "Category": "Passenger_ship",
+                "ID": "72"
+            },
+            "id": "target_232",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.0311484373576,
+                    22.71515016738679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4386 7942)",
+                "X co-ordinate": "4386",
+                "Y co-ordinate": "7942",
+                "Width": "100.0",
+                "Length": "140.0",
+                "Category": "Passenger_ship",
+                "ID": "73"
+            },
+            "id": "target_233",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.97683295648434,
+                    22.75350479947285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4398 7953)",
+                "X co-ordinate": "4398",
+                "Y co-ordinate": "7953",
+                "Width": "80.0",
+                "Length": "120.0",
+                "Category": "Passenger_ship",
+                "ID": "74"
+            },
+            "id": "target_234",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.97548018118832,
+                    22.752716062563486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4424 8090)",
+                "X co-ordinate": "4424",
+                "Y co-ordinate": "8090",
+                "Width": "50.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "77"
+            },
+            "id": "target_237",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.9704933274232,
+                    22.74082376050375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4676 8288)",
+                "X co-ordinate": "4676",
+                "Y co-ordinate": "8288",
+                "Width": "100.0",
+                "Length": "100.0",
+                "Category": "Passenger_ship",
+                "ID": "78"
+            },
+            "id": "target_238",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.94265008190716,
+                    22.727204386087013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4666 8291)",
+                "X co-ordinate": "4666",
+                "Y co-ordinate": "8291",
+                "Width": "70.0",
+                "Length": "90.0",
+                "Category": "Passenger_ship",
+                "ID": "79"
+            },
+            "id": "target_239",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.94360715224676,
+                    22.726799512203755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4804 8296)",
+                "X co-ordinate": "4804",
+                "Y co-ordinate": "8296",
+                "Width": "40.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "80"
+            },
+            "id": "target_240",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.9302745094264,
+                    22.728710444915446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4762 8305)",
+                "X co-ordinate": "4762",
+                "Y co-ordinate": "8305",
+                "Width": "50.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "81"
+            },
+            "id": "target_241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.93415995238078,
+                    22.7271275779125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4739 8328)",
+                "X co-ordinate": "4739",
+                "Y co-ordinate": "8328",
+                "Width": "60.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "82"
+            },
+            "id": "target_242",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.93588175008588,
+                    22.724666707828302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4821 8345)",
+                "X co-ordinate": "4821",
+                "Y co-ordinate": "8345",
+                "Width": "70.0",
+                "Length": "80.0",
+                "Category": "Passenger_ship",
+                "ID": "83"
+            },
+            "id": "target_243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.92777426188205,
+                    22.724521693348397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4800 8360)",
+                "X co-ordinate": "4800",
+                "Y co-ordinate": "8360",
+                "Width": "60.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "84"
+            },
+            "id": "target_244",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.92945409759149,
+                    22.722817399449855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4661 8364)",
+                "X co-ordinate": "4661",
+                "Y co-ordinate": "8364",
+                "Width": "80.0",
+                "Length": "110.0",
+                "Category": "Passenger_ship",
+                "ID": "85"
+            },
+            "id": "target_245",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.942675378652,
+                    22.720130270170944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4661 8364)",
+                "X co-ordinate": "4661",
+                "Y co-ordinate": "8364",
+                "Width": "80.0",
+                "Length": "110.0",
+                "Category": "Passenger_ship",
+                "ID": "86"
+            },
+            "id": "target_247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.942675378652,
+                    22.720130270170944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4800 8360)",
+                "X co-ordinate": "4800",
+                "Y co-ordinate": "8360",
+                "Width": "60.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "87"
+            },
+            "id": "target_248",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.92945409759149,
+                    22.722817399449855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4787 8410)",
+                "X co-ordinate": "4787",
+                "Y co-ordinate": "8410",
+                "Width": "280.0",
+                "Length": "190.0",
+                "Category": "Passenger_ship",
+                "ID": "88"
+            },
+            "id": "target_249",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.92977362510099,
+                    22.71812543583565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (9276 8537)",
+                "X co-ordinate": "9276",
+                "Y co-ordinate": "8537",
+                "Width": "30.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "89"
+            },
+            "id": "target_251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.49814546753372,
+                    22.7825366004388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (9292 8548)",
+                "X co-ordinate": "9292",
+                "Y co-ordinate": "8548",
+                "Width": "100.0",
+                "Length": "120.0",
+                "Category": "Passenger_ship",
+                "ID": "90"
+            },
+            "id": "target_252",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.4963644616469,
+                    22.781820139913663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7490 8654)",
+                "X co-ordinate": "7490",
+                "Y co-ordinate": "8654",
+                "Width": "40.0",
+                "Length": "20.0",
+                "Category": "Fishing_Ship",
+                "ID": "91"
+            },
+            "id": "target_253",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.66679436576969,
+                    22.74190906829646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7492 8697)",
+                "X co-ordinate": "7492",
+                "Y co-ordinate": "8697",
+                "Width": "50.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "92"
+            },
+            "id": "target_255",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.66585646798829,
+                    22.73805195262889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7505 8701)",
+                "X co-ordinate": "7505",
+                "Y co-ordinate": "8701",
+                "Width": "30.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "93"
+            },
+            "id": "target_256",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.66453944625823,
+                    22.737910657657512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7494 8711)",
+                "X co-ordinate": "7494",
+                "Y co-ordinate": "8711",
+                "Width": "50.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "94"
+            },
+            "id": "target_257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.66540655996053,
+                    22.73682171365859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7506 8714)",
+                "X co-ordinate": "7506",
+                "Y co-ordinate": "8714",
+                "Width": "60.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "95"
+            },
+            "id": "target_258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.66416507437921,
+                    22.73680739881923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7431 8576)",
+                "X co-ordinate": "7431",
+                "Y co-ordinate": "8576",
+                "Width": "50.0",
+                "Length": "100.0",
+                "Category": "Passenger_ship",
+                "ID": "96"
+            },
+            "id": "target_259",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.67392561428339,
+                    22.747945451145725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7416 8581)",
+                "X co-ordinate": "7416",
+                "Y co-ordinate": "8581",
+                "Width": "40.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "97"
+            },
+            "id": "target_260",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.6752198829365,
+                    22.747248773052203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7104 8719)",
+                "X co-ordinate": "7104",
+                "Y co-ordinate": "8719",
+                "Width": "140.0",
+                "Length": "100.0",
+                "Category": "Passenger_ship",
+                "ID": "98"
+            },
+            "id": "target_265",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.7025040712753,
+                    22.72951181169507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8513 8630)",
+                "X co-ordinate": "8513",
+                "Y co-ordinate": "8630",
+                "Width": "40.0",
+                "Length": "20.0",
+                "Category": "Fishing_Ship",
+                "ID": "99"
+            },
+            "id": "target_274",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.56938613399647,
+                    22.761319848002515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8650 8633)",
+                "X co-ordinate": "8650",
+                "Y co-ordinate": "8633",
+                "Width": "50.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "100"
+            },
+            "id": "target_275",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.55628272334883,
+                    22.763392641759324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8662 8648)",
+                "X co-ordinate": "8662",
+                "Y co-ordinate": "8648",
+                "Width": "30.0",
+                "Length": "20.0",
+                "Category": "Fishing_Ship",
+                "ID": "101"
+            },
+            "id": "target_276",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.5548495937429,
+                    22.762195312041047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8507 8684)",
+                "X co-ordinate": "8507",
+                "Y co-ordinate": "8684",
+                "Width": "50.0",
+                "Length": "80.0",
+                "Category": "Passenger_ship",
+                "ID": "102"
+            },
+            "id": "target_277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.56901369025212,
+                    22.756335033410874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8527 8749)",
+                "X co-ordinate": "8527",
+                "Y co-ordinate": "8749",
+                "Width": "70.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "103"
+            },
+            "id": "target_278",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.56591312029076,
+                    22.750848474485217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8528 8767)",
+                "X co-ordinate": "8528",
+                "Y co-ordinate": "8767",
+                "Width": "100.0",
+                "Length": "110.0",
+                "Category": "Passenger_ship",
+                "ID": "104"
+            },
+            "id": "target_279",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.56543825961296,
+                    22.749248615220232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3807 8427)",
+                "X co-ordinate": "3807",
+                "Y co-ordinate": "8427",
+                "Width": "280.0",
+                "Length": "170.0",
+                "Category": "Passenger_ship",
+                "ID": "105"
+            },
+            "id": "target_286",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.02312580793404,
+                    22.699868775768753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (22277 8404)",
+                "X co-ordinate": "22277",
+                "Y co-ordinate": "8404",
+                "Width": "40.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "106"
+            },
+            "id": "target_296",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.25445035477614,
+                    23.007955969361767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6610 8807)",
+                "X co-ordinate": "6610",
+                "Y co-ordinate": "8807",
+                "Width": "170.0",
+                "Length": "160.0",
+                "Category": "Passenger_ship",
+                "ID": "107"
+            },
+            "id": "target_297",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.74815902836005,
+                    22.713202332182288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4248 8933)",
+                "X co-ordinate": "4248",
+                "Y co-ordinate": "8933",
+                "Width": "220.0",
+                "Length": "150.0",
+                "Category": "Passenger_ship",
+                "ID": "109"
+            },
+            "id": "target_299",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.97152191789708,
+                    22.661698783764447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4380 9057)",
+                "X co-ordinate": "4380",
+                "Y co-ordinate": "9057",
+                "Width": "270.0",
+                "Length": "190.0",
+                "Category": "Passenger_ship",
+                "ID": "110"
+            },
+            "id": "target_300",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.95664141657346,
+                    22.652743935394223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7481 8810)",
+                "X co-ordinate": "7481",
+                "Y co-ordinate": "8810",
+                "Width": "30.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "112"
+            },
+            "id": "target_302",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.66482974176229,
+                    22.727708241533165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7477 8820)",
+                "X co-ordinate": "7477",
+                "Y co-ordinate": "8820",
+                "Width": "60.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "113"
+            },
+            "id": "target_303",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.6649796368192,
+                    22.726746140043698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7478 8828)",
+                "X co-ordinate": "7478",
+                "Y co-ordinate": "8828",
+                "Width": "100.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "114"
+            },
+            "id": "target_304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.66472696880672,
+                    22.725995585015866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (24047 8813)",
+                "X co-ordinate": "24047",
+                "Y co-ordinate": "8813",
+                "Width": "280.0",
+                "Length": "140.0",
+                "Category": "Passenger_ship",
+                "ID": "116"
+            },
+            "id": "target_306",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.07737839328159,
+                    22.99932930998877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (1933 9410)",
+                "X co-ordinate": "1933",
+                "Y co-ordinate": "9410",
+                "Width": "40.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "117"
+            },
+            "id": "target_307",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.18362779511429,
+                    22.57893493793529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (1930 9417)",
+                "X co-ordinate": "1930",
+                "Y co-ordinate": "9417",
+                "Width": "20.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "118"
+            },
+            "id": "target_308",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.18377078650522,
+                    22.57820628733939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4350 9630)",
+                "X co-ordinate": "4350",
+                "Y co-ordinate": "9630",
+                "Width": "10.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "119"
+            },
+            "id": "target_309",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.94870658234261,
+                    22.600502341500512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3235 9299)",
+                "X co-ordinate": "3235",
+                "Y co-ordinate": "9299",
+                "Width": "160.0",
+                "Length": "120.0",
+                "Category": "Passenger_ship",
+                "ID": "120"
+            },
+            "id": "target_310",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.06142194756548,
+                    22.611268995879392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3227 9369)",
+                "X co-ordinate": "3227",
+                "Y co-ordinate": "9369",
+                "Width": "110.0",
+                "Length": "90.0",
+                "Category": "Passenger_ship",
+                "ID": "121"
+            },
+            "id": "target_311",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.0609105598473,
+                    22.604850043261017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3269 9463)",
+                "X co-ordinate": "3269",
+                "Y co-ordinate": "9463",
+                "Width": "130.0",
+                "Length": "110.0",
+                "Category": "Passenger_ship",
+                "ID": "122"
+            },
+            "id": "target_312",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.05511049799189,
+                    22.59708510433269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4569 9341)",
+                "X co-ordinate": "4569",
+                "Y co-ordinate": "9341",
+                "Width": "170.0",
+                "Length": "100.0",
+                "Category": "Passenger_ship",
+                "ID": "123"
+            },
+            "id": "target_313",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.93325911788415,
+                    22.63027857613765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4688 9349)",
+                "X co-ordinate": "4688",
+                "Y co-ordinate": "9349",
+                "Width": "210.0",
+                "Length": "160.0",
+                "Category": "Passenger_ship",
+                "ID": "124"
+            },
+            "id": "target_314",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.92174022116788,
+                    22.63158706616537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4732 9473)",
+                "X co-ordinate": "4732",
+                "Y co-ordinate": "9473",
+                "Width": "200.0",
+                "Length": "190.0",
+                "Category": "Passenger_ship",
+                "ID": "125"
+            },
+            "id": "target_315",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.91514992845556,
+                    22.621199781140245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4851 9507)",
+                "X co-ordinate": "4851",
+                "Y co-ordinate": "9507",
+                "Width": "220.0",
+                "Length": "180.0",
+                "Category": "Passenger_ship",
+                "ID": "126"
+            },
+            "id": "target_316",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.90313032248255,
+                    22.62011658547732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4896 9625)",
+                "X co-ordinate": "4896",
+                "Y co-ordinate": "9625",
+                "Width": "180.0",
+                "Length": "160.0",
+                "Category": "Passenger_ship",
+                "ID": "127"
+            },
+            "id": "target_317",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.89659815328257,
+                    22.610234366228795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8192 9376)",
+                "X co-ordinate": "8192",
+                "Y co-ordinate": "9376",
+                "Width": "50.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "128"
+            },
+            "id": "target_318",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.58636490507658,
+                    22.68855706561275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7853 9262)",
+                "X co-ordinate": "7853",
+                "Y co-ordinate": "9262",
+                "Width": "80.0",
+                "Length": "90.0",
+                "Category": "Passenger_ship",
+                "ID": "130"
+            },
+            "id": "target_320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.62086790685682,
+                    22.69318925428205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7801 9373)",
+                "X co-ordinate": "7801",
+                "Y co-ordinate": "9373",
+                "Width": "60.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "131"
+            },
+            "id": "target_321",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.62376691354805,
+                    22.68229567568553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7519 9383)",
+                "X co-ordinate": "7519",
+                "Y co-ordinate": "9383",
+                "Width": "30.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "132"
+            },
+            "id": "target_322",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.65058320143162,
+                    22.67661942824839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7366 9361)",
+                "X co-ordinate": "7366",
+                "Y co-ordinate": "9361",
+                "Width": "70.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "135"
+            },
+            "id": "target_325",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.66562015744971,
+                    22.67601640367341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3372 9815)",
+                "X co-ordinate": "3372",
+                "Y co-ordinate": "9815",
+                "Width": "30.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "136"
+            },
+            "id": "target_326",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.03856749134583,
+                    22.56703280921884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (3148 9942)",
+                "X co-ordinate": "3148",
+                "Y co-ordinate": "9942",
+                "Width": "30.0",
+                "Length": "10.0",
+                "Category": "Fishing_Ship",
+                "ID": "137"
+            },
+            "id": "target_327",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.0575432123339,
+                    22.551775197723256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5508 9969)",
+                "X co-ordinate": "5508",
+                "Y co-ordinate": "9969",
+                "Width": "60.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "140"
+            },
+            "id": "target_342",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.83163881538707,
+                    22.58960569423225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5777 9977)",
+                "X co-ordinate": "5777",
+                "Y co-ordinate": "9977",
+                "Width": "90.0",
+                "Length": "100.0",
+                "Category": "Passenger_ship",
+                "ID": "141"
+            },
+            "id": "target_343",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.80584248262224,
+                    22.59344667624451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5760 9985)",
+                "X co-ordinate": "5760",
+                "Y co-ordinate": "9985",
+                "Width": "70.0",
+                "Length": "80.0",
+                "Category": "Passenger_ship",
+                "ID": "142"
+            },
+            "id": "target_344",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.8073151750288,
+                    22.592435767196754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5460 10075)",
+                "X co-ordinate": "5460",
+                "Y co-ordinate": "10075",
+                "Width": "50.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "143"
+            },
+            "id": "target_345",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.83427756859797,
+                    22.579259861089987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5158 9904)",
+                "X co-ordinate": "5158",
+                "Y co-ordinate": "9904",
+                "Width": "30.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "144"
+            },
+            "id": "target_346",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.86635520982409,
+                    22.589560800555592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4061 9819)",
+                "X co-ordinate": "4061",
+                "Y co-ordinate": "9819",
+                "Width": "50.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "145"
+            },
+            "id": "target_347",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.97271916724304,
+                    22.57851165816845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (2136 9739)",
+                "X co-ordinate": "2136",
+                "Y co-ordinate": "9739",
+                "Width": "110.0",
+                "Length": "100.0",
+                "Category": "Passenger_ship",
+                "ID": "146"
+            },
+            "id": "target_351",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.15800202738322,
+                    22.55267659570011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (2191 9744)",
+                "X co-ordinate": "2191",
+                "Y co-ordinate": "9744",
+                "Width": "110.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "147"
+            },
+            "id": "target_352",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.15266694118456,
+                    22.55321703927989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (2202 9746)",
+                "X co-ordinate": "2202",
+                "Y co-ordinate": "9746",
+                "Width": "30.0",
+                "Length": "20.0",
+                "Category": "Fishing_Ship",
+                "ID": "148"
+            },
+            "id": "target_353",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.15156936602422,
+                    22.553180699450632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7751 10088)",
+                "X co-ordinate": "7751",
+                "Y co-ordinate": "10088",
+                "Width": "240.0",
+                "Length": "160.0",
+                "Category": "Passenger_ship",
+                "ID": "149"
+            },
+            "id": "target_356",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.61513134520999,
+                    22.616887968762136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (9650 10038)",
+                "X co-ordinate": "9650",
+                "Y co-ordinate": "10038",
+                "Width": "280.0",
+                "Length": "160.0",
+                "Category": "Passenger_ship",
+                "ID": "150"
+            },
+            "id": "target_357",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.4345600228379,
+                    22.65334712561184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4245 10153)",
+                "X co-ordinate": "4245",
+                "Y co-ordinate": "10153",
+                "Width": "30.0",
+                "Length": "10.0",
+                "Category": "Fishing_Ship",
+                "ID": "151"
+            },
+            "id": "target_358",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.94881090572231,
+                    22.551505479933386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4256 10154)",
+                "X co-ordinate": "4256",
+                "Y co-ordinate": "10154",
+                "Width": "110.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "152"
+            },
+            "id": "target_359",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.9477322555945,
+                    22.551557832209372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4264 10374)",
+                "X co-ordinate": "4264",
+                "Y co-ordinate": "10374",
+                "Width": "70.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "153"
+            },
+            "id": "target_360",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.94280381915208,
+                    22.53188270426837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6698 10528)",
+                "X co-ordinate": "6698",
+                "Y co-ordinate": "10528",
+                "Width": "280.0",
+                "Length": "150.0",
+                "Category": "Passenger_ship",
+                "ID": "154"
+            },
+            "id": "target_363",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.70746022794873,
+                    22.559408292202484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5373 10222)",
+                "X co-ordinate": "5373",
+                "Y co-ordinate": "10222",
+                "Width": "60.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "156"
+            },
+            "id": "target_365",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.8397507661033,
+                    22.56447752796909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5295 10226)",
+                "X co-ordinate": "5295",
+                "Y co-ordinate": "10226",
+                "Width": "90.0",
+                "Length": "100.0",
+                "Category": "Passenger_ship",
+                "ID": "157"
+            },
+            "id": "target_366",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.8471716708396,
+                    22.562782347517103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6177 10342)",
+                "X co-ordinate": "6177",
+                "Y co-ordinate": "10342",
+                "Width": "120.0",
+                "Length": "130.0",
+                "Category": "Passenger_ship",
+                "ID": "158"
+            },
+            "id": "target_368",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.76071815397943,
+                    22.567357468280672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6241 10378)",
+                "X co-ordinate": "6241",
+                "Y co-ordinate": "10378",
+                "Width": "90.0",
+                "Length": "80.0",
+                "Category": "Passenger_ship",
+                "ID": "159"
+            },
+            "id": "target_369",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.75396661424566,
+                    22.565142695889183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6150 10424)",
+                "X co-ordinate": "6150",
+                "Y co-ordinate": "10424",
+                "Width": "60.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "160"
+            },
+            "id": "target_370",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.76175039327572,
+                    22.559498200226283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (9332 10419)",
+                "X co-ordinate": "9332",
+                "Y co-ordinate": "10419",
+                "Width": "50.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "161"
+            },
+            "id": "target_371",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.4579115910024,
+                    22.613672498060218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (4066 10603)",
+                "X co-ordinate": "4066",
+                "Y co-ordinate": "10603",
+                "Width": "90.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "162"
+            },
+            "id": "target_372",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.95735660354221,
+                    22.507833847570453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5709 10904)",
+                "X co-ordinate": "5709",
+                "Y co-ordinate": "10904",
+                "Width": "80.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "163"
+            },
+            "id": "target_374",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.79479606526807,
+                    22.508682183515464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5231 10897)",
+                "X co-ordinate": "5231",
+                "Y co-ordinate": "10897",
+                "Width": "70.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "164"
+            },
+            "id": "target_375",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.84059384496025,
+                    22.501134535806013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5299 10916)",
+                "X co-ordinate": "5299",
+                "Y co-ordinate": "10916",
+                "Width": "70.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "165"
+            },
+            "id": "target_376",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.83374369401427,
+                    22.50057569545246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5252 10946)",
+                "X co-ordinate": "5252",
+                "Y co-ordinate": "10946",
+                "Width": "60.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "166"
+            },
+            "id": "target_377",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.83762442789374,
+                    22.497122738162254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5184 10972)",
+                "X co-ordinate": "5184",
+                "Y co-ordinate": "10972",
+                "Width": "160.0",
+                "Length": "140.0",
+                "Category": "Passenger_ship",
+                "ID": "167"
+            },
+            "id": "target_378",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.84361389908396,
+                    22.4935750273902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5095 10968)",
+                "X co-ordinate": "5095",
+                "Y co-ordinate": "10968",
+                "Width": "50.0",
+                "Length": "20.0",
+                "Category": "Fishing_Ship",
+                "ID": "168"
+            },
+            "id": "target_379",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.85223052751614,
+                    22.49241034042528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5078 10976)",
+                "X co-ordinate": "5078",
+                "Y co-ordinate": "10976",
+                "Width": "20.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "169"
+            },
+            "id": "target_380",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.85365357831799,
+                    22.491406632614652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6173 10982)",
+                "X co-ordinate": "6173",
+                "Y co-ordinate": "10982",
+                "Width": "110.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "170"
+            },
+            "id": "target_382",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.74908255560247,
+                    22.509522124138517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (9980 10609)",
+                "X co-ordinate": "9980",
+                "Y co-ordinate": "10609",
+                "Width": "220.0",
+                "Length": "190.0",
+                "Category": "Passenger_ship",
+                "ID": "171"
+            },
+            "id": "target_383",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.39239443299908,
+                    22.60740991383253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7479 10887)",
+                "X co-ordinate": "7479",
+                "Y co-ordinate": "10887",
+                "Width": "240.0",
+                "Length": "160.0",
+                "Category": "Passenger_ship",
+                "ID": "174"
+            },
+            "id": "target_386",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.62612188387257,
+                    22.540184963985595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12530 10874)",
+                "X co-ordinate": "12530",
+                "Y co-ordinate": "10874",
+                "Width": "280.0",
+                "Length": "200.0",
+                "Category": "Cargo_or_Tanker_ship",
+                "ID": "176"
+            },
+            "id": "target_388",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.14371567225464,
+                    22.626013745488876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (16619 10849)",
+                "X co-ordinate": "16619",
+                "Y co-ordinate": "10849",
+                "Width": "240.0",
+                "Length": "120.0",
+                "Category": "Passenger_ship",
+                "ID": "177"
+            },
+            "id": "target_389",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.75301921050179,
+                    22.69574341790477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5121 11013)",
+                "X co-ordinate": "5121",
+                "Y co-ordinate": "11013",
+                "Width": "50.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "178"
+            },
+            "id": "target_390",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.84890774923393,
+                    22.488837884165644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5103 11029)",
+                "X co-ordinate": "5103",
+                "Y co-ordinate": "11029",
+                "Width": "50.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "179"
+            },
+            "id": "target_391",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.85032253304848,
+                    22.487086533585067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5099 11035)",
+                "X co-ordinate": "5099",
+                "Y co-ordinate": "11035",
+                "Width": "30.0",
+                "Length": "10.0",
+                "Category": "Fishing_Ship",
+                "ID": "180"
+            },
+            "id": "target_392",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.85059067578531,
+                    22.486476722897702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5206 11118)",
+                "X co-ordinate": "5206",
+                "Y co-ordinate": "11118",
+                "Width": "30.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "181"
+            },
+            "id": "target_393",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.83880987081749,
+                    22.480808625667343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5285 11133)",
+                "X co-ordinate": "5285",
+                "Y co-ordinate": "11133",
+                "Width": "60.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "182"
+            },
+            "id": "target_394",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.83092926140998,
+                    22.480761262428487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5249 11189)",
+                "X co-ordinate": "5249",
+                "Y co-ordinate": "11189",
+                "Width": "100.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "183"
+            },
+            "id": "target_395",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.83331381043507,
+                    22.47514051553064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7754 11060)",
+                "X co-ordinate": "7754",
+                "Y co-ordinate": "11060",
+                "Width": "200.0",
+                "Length": "190.0",
+                "Category": "Passenger_ship",
+                "ID": "184"
+            },
+            "id": "target_396",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.59662846115263,
+                    22.529271953399554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6633 11079)",
+                "X co-ordinate": "6633",
+                "Y co-ordinate": "11079",
+                "Width": "50.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "185"
+            },
+            "id": "target_398",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.70334462097793,
+                    22.508574470108318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6833 11341)",
+                "X co-ordinate": "6833",
+                "Y co-ordinate": "11341",
+                "Width": "100.0",
+                "Length": "90.0",
+                "Category": "Passenger_ship",
+                "ID": "187"
+            },
+            "id": "target_400",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.67926557497259,
+                    22.488325875986728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6782 11392)",
+                "X co-ordinate": "6782",
+                "Y co-ordinate": "11392",
+                "Width": "50.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "188"
+            },
+            "id": "target_401",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.68321030653392,
+                    22.48280677008626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6646 11417)",
+                "X co-ordinate": "6646",
+                "Y co-ordinate": "11417",
+                "Width": "80.0",
+                "Length": "80.0",
+                "Category": "Passenger_ship",
+                "ID": "189"
+            },
+            "id": "target_402",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.69567234092358,
+                    22.478256828172736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6773 11436)",
+                "X co-ordinate": "6773",
+                "Y co-ordinate": "11436",
+                "Width": "40.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "190"
+            },
+            "id": "target_403",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.68320128725033,
+                    22.47873752798047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5717 11269)",
+                "X co-ordinate": "5717",
+                "Y co-ordinate": "11269",
+                "Width": "60.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "191"
+            },
+            "id": "target_404",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.78712624389519,
+                    22.475832482410226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7041 11205)",
+                "X co-ordinate": "7041",
+                "Y co-ordinate": "11205",
+                "Width": "220.0",
+                "Length": "90.0",
+                "Category": "Passenger_ship",
+                "ID": "192"
+            },
+            "id": "target_405",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.66197340646617,
+                    22.504119327236577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7058 11204)",
+                "X co-ordinate": "7058",
+                "Y co-ordinate": "11204",
+                "Width": "30.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "193"
+            },
+            "id": "target_406",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.66041709606134,
+                    22.504488887073453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10778 11186)",
+                "X co-ordinate": "10778",
+                "Y co-ordinate": "11186",
+                "Width": "40.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "195"
+            },
+            "id": "target_408",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.30541178544499,
+                    22.568708803649212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12576 11146)",
+                "X co-ordinate": "12576",
+                "Y co-ordinate": "11146",
+                "Width": "60.0",
+                "Length": "100.0",
+                "Category": "Passenger_ship",
+                "ID": "196"
+            },
+            "id": "target_409",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.1343010245839,
+                    22.602242899992124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (9716 11394)",
+                "X co-ordinate": "9716",
+                "Y co-ordinate": "11394",
+                "Width": "30.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "197"
+            },
+            "id": "target_410",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.40302823900953,
+                    22.532101407683722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (22905 11200)",
+                "X co-ordinate": "22905",
+                "Y co-ordinate": "11200",
+                "Width": "40.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "198"
+            },
+            "id": "target_411",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.1447096295785,
+                    22.7659647234047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5411 11565)",
+                "X co-ordinate": "5411",
+                "Y co-ordinate": "11565",
+                "Width": "40.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "199"
+            },
+            "id": "target_412",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.81072148734894,
+                    22.443917659800178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5335 11678)",
+                "X co-ordinate": "5335",
+                "Y co-ordinate": "11678",
+                "Width": "60.0",
+                "Length": "90.0",
+                "Category": "Passenger_ship",
+                "ID": "200"
+            },
+            "id": "target_413",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.81584144882619,
+                    22.43247289481958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5582 11451)",
+                "X co-ordinate": "5582",
+                "Y co-ordinate": "11451",
+                "Width": "130.0",
+                "Length": "190.0",
+                "Category": "Passenger_ship",
+                "ID": "201"
+            },
+            "id": "target_414",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.79662112150429,
+                    22.45714955620263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5651 11499)",
+                "X co-ordinate": "5651",
+                "Y co-ordinate": "11499",
+                "Width": "60.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "202"
+            },
+            "id": "target_415",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.78908086748648,
+                    22.453999542767377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5555 11558)",
+                "X co-ordinate": "5555",
+                "Y co-ordinate": "11558",
+                "Width": "40.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "203"
+            },
+            "id": "target_416",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.79712390891672,
+                    22.447042909760064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5484 11585)",
+                "X co-ordinate": "5484",
+                "Y co-ordinate": "11585",
+                "Width": "60.0",
+                "Length": "100.0",
+                "Category": "Passenger_ship",
+                "ID": "204"
+            },
+            "id": "target_417",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.80337753436686,
+                    22.443353991390506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6889 11727)",
+                "X co-ordinate": "6889",
+                "Y co-ordinate": "11727",
+                "Width": "140.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "205"
+            },
+            "id": "target_420",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.66664344026472,
+                    22.454442430855607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6862 11773)",
+                "X co-ordinate": "6862",
+                "Y co-ordinate": "11773",
+                "Width": "60.0",
+                "Length": "100.0",
+                "Category": "Passenger_ship",
+                "ID": "206"
+            },
+            "id": "target_421",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.66834338993287,
+                    22.44978924789348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6868 11839)",
+                "X co-ordinate": "6868",
+                "Y co-ordinate": "11839",
+                "Width": "90.0",
+                "Length": "130.0",
+                "Category": "Passenger_ship",
+                "ID": "207"
+            },
+            "id": "target_422",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.66658368020141,
+                    22.44397183960864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6816 11869)",
+                "X co-ordinate": "6816",
+                "Y co-ordinate": "11869",
+                "Width": "10.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "208"
+            },
+            "id": "target_423",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.67097057909612,
+                    22.440339120625506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7199 11787)",
+                "X co-ordinate": "7199",
+                "Y co-ordinate": "11787",
+                "Width": "190.0",
+                "Length": "110.0",
+                "Category": "Passenger_ship",
+                "ID": "209"
+            },
+            "id": "target_425",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.63597781924162,
+                    22.45426864984416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10420 11597)",
+                "X co-ordinate": "10420",
+                "Y co-ordinate": "11597",
+                "Width": "150.0",
+                "Length": "150.0",
+                "Category": "Passenger_ship",
+                "ID": "210"
+            },
+            "id": "target_426",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.332012359108,
+                    22.52564041023015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10300 11565)",
+                "X co-ordinate": "10300",
+                "Y co-ordinate": "11565",
+                "Width": "200.0",
+                "Length": "170.0",
+                "Category": "Passenger_ship",
+                "ID": "211"
+            },
+            "id": "target_428",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.34402409864542,
+                    22.52652966289936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10310 11578)",
+                "X co-ordinate": "10310",
+                "Y co-ordinate": "11578",
+                "Width": "80.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "212"
+            },
+            "id": "target_429",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.34282677242877,
+                    22.52552451143164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10419 11597)",
+                "X co-ordinate": "10419",
+                "Y co-ordinate": "11597",
+                "Width": "130.0",
+                "Length": "150.0",
+                "Category": "Passenger_ship",
+                "ID": "213"
+            },
+            "id": "target_430",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.33210788776333,
+                    22.52562369807212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (9721 11444)",
+                "X co-ordinate": "9721",
+                "Y co-ordinate": "11444",
+                "Width": "30.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "214"
+            },
+            "id": "target_432",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.40161713599933,
+                    22.527674393368677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6773 11896)",
+                "X co-ordinate": "6773",
+                "Y co-ordinate": "11896",
+                "Width": "60.0",
+                "Length": "120.0",
+                "Category": "Passenger_ship",
+                "ID": "215"
+            },
+            "id": "target_433",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.67451679721357,
+                    22.43718307542652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6864 11927)",
+                "X co-ordinate": "6864",
+                "Y co-ordinate": "11927",
+                "Width": "40.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "216"
+            },
+            "id": "target_434",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.66525859522233,
+                    22.435971705396614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6847 11977)",
+                "X co-ordinate": "6847",
+                "Y co-ordinate": "11977",
+                "Width": "50.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "217"
+            },
+            "id": "target_435",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.66597627024673,
+                    22.43111840022536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (6800 12032)",
+                "X co-ordinate": "6800",
+                "Y co-ordinate": "12032",
+                "Width": "60.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "218"
+            },
+            "id": "target_436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.66938532981699,
+                    22.425413069291807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (5451 12056)",
+                "X co-ordinate": "5451",
+                "Y co-ordinate": "12056",
+                "Width": "40.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "219"
+            },
+            "id": "target_438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.79760563381664,
+                    22.40028784189421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7515 12187)",
+                "X co-ordinate": "7515",
+                "Y co-ordinate": "12187",
+                "Width": "50.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "220"
+            },
+            "id": "target_440",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.59829838959118,
+                    22.423525730414266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7334 12238)",
+                "X co-ordinate": "7334",
+                "Y co-ordinate": "12238",
+                "Width": "60.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "221"
+            },
+            "id": "target_441",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.61454889732326,
+                    22.415822029733718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7157 12290)",
+                "X co-ordinate": "7157",
+                "Y co-ordinate": "12290",
+                "Width": "150.0",
+                "Length": "90.0",
+                "Category": "Passenger_ship",
+                "ID": "222"
+            },
+            "id": "target_443",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.63051204069582,
+                    22.408169029634948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10480 12197)",
+                "X co-ordinate": "10480",
+                "Y co-ordinate": "12197",
+                "Width": "210.0",
+                "Length": "80.0",
+                "Category": "Passenger_ship",
+                "ID": "223"
+            },
+            "id": "target_444",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.31509770636309,
+                    22.472469759954553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10635 12219)",
+                "X co-ordinate": "10635",
+                "Y co-ordinate": "12219",
+                "Width": "60.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "224"
+            },
+            "id": "target_445",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.29984849403003,
+                    22.473129520710557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (14319 12199)",
+                "X co-ordinate": "14319",
+                "Y co-ordinate": "12199",
+                "Width": "50.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "225"
+            },
+            "id": "target_448",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.94834114817114,
+                    22.536149120175338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7389 12486)",
+                "X co-ordinate": "7389",
+                "Y co-ordinate": "12486",
+                "Width": "80.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "226"
+            },
+            "id": "target_450",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.60463476477554,
+                    22.394375333032457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7373 12493)",
+                "X co-ordinate": "7373",
+                "Y co-ordinate": "12493",
+                "Width": "140.0",
+                "Length": "140.0",
+                "Category": "Passenger_ship",
+                "ID": "227"
+            },
+            "id": "target_451",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.60602913274839,
+                    22.393472718922204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7294 12511)",
+                "X co-ordinate": "7294",
+                "Y co-ordinate": "12511",
+                "Width": "130.0",
+                "Length": "110.0",
+                "Category": "Passenger_ship",
+                "ID": "228"
+            },
+            "id": "target_452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.61328251827473,
+                    22.39054720629736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7276 12528)",
+                "X co-ordinate": "7276",
+                "Y co-ordinate": "12528",
+                "Width": "80.0",
+                "Length": "110.0",
+                "Category": "Passenger_ship",
+                "ID": "229"
+            },
+            "id": "target_453",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.61463162117587,
+                    22.388716833456613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7333 12661)",
+                "X co-ordinate": "7333",
+                "Y co-ordinate": "12661",
+                "Width": "70.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "230"
+            },
+            "id": "target_454",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.60673920535504,
+                    22.37767252605073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8312 12557)",
+                "X co-ordinate": "8312",
+                "Y co-ordinate": "12557",
+                "Width": "90.0",
+                "Length": "190.0",
+                "Category": "Passenger_ship",
+                "ID": "231"
+            },
+            "id": "target_467",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.51530106294014,
+                    22.403595806001558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8632 12711)",
+                "X co-ordinate": "8632",
+                "Y co-ordinate": "12711",
+                "Width": "20.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "232"
+            },
+            "id": "target_468",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.48183485433799,
+                    22.39510608766776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8640 12758)",
+                "X co-ordinate": "8640",
+                "Y co-ordinate": "12758",
+                "Width": "20.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "233"
+            },
+            "id": "target_469",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.48019084577837,
+                    22.39100039894112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12260 12472)",
+                "X co-ordinate": "12260",
+                "Y co-ordinate": "12472",
+                "Width": "260.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "234"
+            },
+            "id": "target_470",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.13996336617093,
+                    22.47737842676889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12206 12681)",
+                "X co-ordinate": "12206",
+                "Y co-ordinate": "12681",
+                "Width": "30.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "235"
+            },
+            "id": "target_474",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.14130815150398,
+                    22.457664107271352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12209 12687)",
+                "X co-ordinate": "12209",
+                "Y co-ordinate": "12687",
+                "Width": "60.0",
+                "Length": "80.0",
+                "Category": "Passenger_ship",
+                "ID": "236"
+            },
+            "id": "target_475",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.14085359502296,
+                    22.45713605444662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12908 12576)",
+                "X co-ordinate": "12908",
+                "Y co-ordinate": "12576",
+                "Width": "50.0",
+                "Length": "20.0",
+                "Category": "Fishing_Ship",
+                "ID": "237"
+            },
+            "id": "target_478",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.07620315286631,
+                    22.478773726115094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12958 12597)",
+                "X co-ordinate": "12958",
+                "Y co-ordinate": "12597",
+                "Width": "30.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "238"
+            },
+            "id": "target_479",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.07103917064717,
+                    22.477708298451468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12842 12480)",
+                "X co-ordinate": "12842",
+                "Y co-ordinate": "12480",
+                "Width": "30.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "239"
+            },
+            "id": "target_480",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.08428913660542,
+                    22.48638088114749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12847 12489)",
+                "X co-ordinate": "12847",
+                "Y co-ordinate": "12489",
+                "Width": "30.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "240"
+            },
+            "id": "target_481",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.08363614003203,
+                    22.485607227139486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12433 12548)",
+                "X co-ordinate": "12433",
+                "Y co-ordinate": "12548",
+                "Width": "40.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "241"
+            },
+            "id": "target_482",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.12204446282041,
+                    22.473447822736684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12401 12605)",
+                "X co-ordinate": "12401",
+                "Y co-ordinate": "12605",
+                "Width": "30.0",
+                "Length": "20.0",
+                "Category": "Fishing_Ship",
+                "ID": "242"
+            },
+            "id": "target_483",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.12408437151453,
+                    22.46772029817661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12699 12734)",
+                "X co-ordinate": "12699",
+                "Y co-ordinate": "12734",
+                "Width": "30.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "243"
+            },
+            "id": "target_485",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.09324267566451,
+                    22.461045085425358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7506 12867)",
+                "X co-ordinate": "7506",
+                "Y co-ordinate": "12867",
+                "Width": "70.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "245"
+            },
+            "id": "target_490",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.58635533638278,
+                    22.36196936076102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7273 12841)",
+                "X co-ordinate": "7273",
+                "Y co-ordinate": "12841",
+                "Width": "30.0",
+                "Length": "20.0",
+                "Category": "Fishing_Ship",
+                "ID": "246"
+            },
+            "id": "target_492",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.6090631869141,
+                    22.360368917372647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (7240 12931)",
+                "X co-ordinate": "7240",
+                "Y co-ordinate": "12931",
+                "Width": "80.0",
+                "Length": "80.0",
+                "Category": "Passenger_ship",
+                "ID": "247"
+            },
+            "id": "target_495",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.6104677515531,
+                    22.351697280631925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10746 12862)",
+                "X co-ordinate": "10746",
+                "Y co-ordinate": "12862",
+                "Width": "70.0",
+                "Length": "160.0",
+                "Category": "Passenger_ship",
+                "ID": "248"
+            },
+            "id": "target_498",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.27732346409643,
+                    22.41692517097742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10205 13138)",
+                "X co-ordinate": "10205",
+                "Y co-ordinate": "13138",
+                "Width": "20.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "249"
+            },
+            "id": "target_499",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.32377809790114,
+                    22.383025544873334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8469 13155)",
+                "X co-ordinate": "8469",
+                "Y co-ordinate": "13155",
+                "Width": "20.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "250"
+            },
+            "id": "target_500",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.48905355511637,
+                    22.352250587229555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12692 12878)",
+                "X co-ordinate": "12692",
+                "Y co-ordinate": "12878",
+                "Width": "40.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "251"
+            },
+            "id": "target_506",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.09121121461489,
+                    22.447993353075624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (11693 12989)",
+                "X co-ordinate": "11693",
+                "Y co-ordinate": "12989",
+                "Width": "130.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "252"
+            },
+            "id": "target_509",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.18457252562067,
+                    22.421296025798465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (11808 12998)",
+                "X co-ordinate": "11808",
+                "Y co-ordinate": "12998",
+                "Width": "30.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "253"
+            },
+            "id": "target_510",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.17342664265887,
+                    22.422398755119534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (11811 13051)",
+                "X co-ordinate": "11811",
+                "Y co-ordinate": "13051",
+                "Width": "130.0",
+                "Length": "160.0",
+                "Category": "Passenger_ship",
+                "ID": "254"
+            },
+            "id": "target_511",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.1721584204227,
+                    22.417667691115398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (18467 13039)",
+                "X co-ordinate": "18467",
+                "Y co-ordinate": "13039",
+                "Width": "50.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "256"
+            },
+            "id": "target_513",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.536515090856,
+                    22.52851936590388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (11973 13181)",
+                "X co-ordinate": "11973",
+                "Y co-ordinate": "13181",
+                "Width": "30.0",
+                "Length": "20.0",
+                "Category": "Fishing_Ship",
+                "ID": "257"
+            },
+            "id": "target_514",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.15428625886561,
+                    22.40863794631688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10114 13215)",
+                "X co-ordinate": "10114",
+                "Y co-ordinate": "13215",
+                "Width": "10.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "258"
+            },
+            "id": "target_515",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.33106326801429,
+                    22.37449677840234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10078 13624)",
+                "X co-ordinate": "10078",
+                "Y co-ordinate": "13624",
+                "Width": "120.0",
+                "Length": "140.0",
+                "Category": "Passenger_ship",
+                "ID": "259"
+            },
+            "id": "target_516",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.32682812771067,
+                    22.33700038932857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8989 13209)",
+                "X co-ordinate": "8989",
+                "Y co-ordinate": "13209",
+                "Width": "30.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "260"
+            },
+            "id": "target_517",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.43850529591377,
+                    22.356186625506787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8993 13215)",
+                "X co-ordinate": "8993",
+                "Y co-ordinate": "13215",
+                "Width": "40.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "261"
+            },
+            "id": "target_518",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.43796391630299,
+                    22.35572117113997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8498 13345)",
+                "X co-ordinate": "8498",
+                "Y co-ordinate": "13345",
+                "Width": "100.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "262"
+            },
+            "id": "target_519",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.48273791243783,
+                    22.335641168325033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8507 13350)",
+                "X co-ordinate": "8507",
+                "Y co-ordinate": "13350",
+                "Width": "50.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "263"
+            },
+            "id": "target_520",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.48182429602221,
+                    22.33528829448215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8590 13387)",
+                "X co-ordinate": "8590",
+                "Y co-ordinate": "13387",
+                "Width": "100.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "264"
+            },
+            "id": "target_521",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.47317793584868,
+                    22.333403527439927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (8742 13415)",
+                "X co-ordinate": "8742",
+                "Y co-ordinate": "13415",
+                "Width": "240.0",
+                "Length": "180.0",
+                "Category": "Passenger_ship",
+                "ID": "265"
+            },
+            "id": "target_522",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.45814961872595,
+                    22.33339622133613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12439 13250)",
+                "X co-ordinate": "12439",
+                "Y co-ordinate": "13250",
+                "Width": "170.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "266"
+            },
+            "id": "target_524",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.1085274375278,
+                    22.410172838116573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12532 13313)",
+                "X co-ordinate": "12532",
+                "Y co-ordinate": "13313",
+                "Width": "20.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "267"
+            },
+            "id": "target_525",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.09844759780636,
+                    22.406092021623245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12630 13467)",
+                "X co-ordinate": "12630",
+                "Y co-ordinate": "13467",
+                "Width": "90.0",
+                "Length": "100.0",
+                "Category": "Passenger_ship",
+                "ID": "268"
+            },
+            "id": "target_526",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.0862871993926,
+                    22.393779365217128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (11340 13330)",
+                "X co-ordinate": "11340",
+                "Y co-ordinate": "13330",
+                "Width": "60.0",
+                "Length": "60.0",
+                "Category": "Passenger_ship",
+                "ID": "269"
+            },
+            "id": "target_527",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.2118921785387,
+                    22.384646788268647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (11326 13344)",
+                "X co-ordinate": "11326",
+                "Y co-ordinate": "13344",
+                "Width": "70.0",
+                "Length": "80.0",
+                "Category": "Passenger_ship",
+                "ID": "270"
+            },
+            "id": "target_528",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.21301603513473,
+                    22.38314133429709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (11498 13481)",
+                "X co-ordinate": "11498",
+                "Y co-ordinate": "13481",
+                "Width": "80.0",
+                "Length": "100.0",
+                "Category": "Passenger_ship",
+                "ID": "271"
+            },
+            "id": "target_531",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.19401565953538,
+                    22.37366731809865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12315 13224)",
+                "X co-ordinate": "12315",
+                "Y co-ordinate": "13224",
+                "Width": "40.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "272"
+            },
+            "id": "target_534",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.12080600780818,
+                    22.410506901399547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (19739 13368)",
+                "X co-ordinate": "19739",
+                "Y co-ordinate": "13368",
+                "Width": "260.0",
+                "Length": "110.0",
+                "Category": "Passenger_ship",
+                "ID": "273"
+            },
+            "id": "target_535",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.40890585413706,
+                    22.51955461631184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (11649 13699)",
+                "X co-ordinate": "11649",
+                "Y co-ordinate": "13699",
+                "Width": "160.0",
+                "Length": "80.0",
+                "Category": "Passenger_ship",
+                "ID": "275"
+            },
+            "id": "target_537",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.17556687502692,
+                    22.356523238901357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10016 13748)",
+                "X co-ordinate": "10016",
+                "Y co-ordinate": "13748",
+                "Width": "40.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "276"
+            },
+            "id": "target_539",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.33042998075547,
+                    22.324771551258703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10194 13996)",
+                "X co-ordinate": "10194",
+                "Y co-ordinate": "13996",
+                "Width": "30.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "277"
+            },
+            "id": "target_540",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.30888304365368,
+                    22.305378779604286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (13864 14066)",
+                "X co-ordinate": "13864",
+                "Y co-ordinate": "14066",
+                "Width": "20.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "278"
+            },
+            "id": "target_542",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.95742675043115,
+                    22.36028642199264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10275 14237)",
+                "X co-ordinate": "10275",
+                "Y co-ordinate": "14237",
+                "Width": "50.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "279"
+            },
+            "id": "target_545",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.29668087602813,
+                    22.285041861132694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10277 14244)",
+                "X co-ordinate": "10277",
+                "Y co-ordinate": "14244",
+                "Width": "70.0",
+                "Length": "50.0",
+                "Category": "Tugs_ship",
+                "ID": "280"
+            },
+            "id": "target_546",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.29635984514519,
+                    22.284443929864807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (13969 14408)",
+                "X co-ordinate": "13969",
+                "Y co-ordinate": "14408",
+                "Width": "50.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "281"
+            },
+            "id": "target_548",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.94116418454784,
+                    22.331174005909567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (13855 14083)",
+                "X co-ordinate": "13855",
+                "Y co-ordinate": "14083",
+                "Width": "20.0",
+                "Length": "70.0",
+                "Category": "Passenger_ship",
+                "ID": "282"
+            },
+            "id": "target_549",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.95797287764809,
+                    22.358603882818905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (20046 14098)",
+                "X co-ordinate": "20046",
+                "Y co-ordinate": "14098",
+                "Width": "130.0",
+                "Length": "100.0",
+                "Category": "Passenger_ship",
+                "ID": "283"
+            },
+            "id": "target_550",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.36644872014524,
+                    22.458677175282656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10805 14607)",
+                "X co-ordinate": "10805",
+                "Y co-ordinate": "14607",
+                "Width": "20.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "284"
+            },
+            "id": "target_551",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.23921472693394,
+                    22.26053974424877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (10814 14618)",
+                "X co-ordinate": "10814",
+                "Y co-ordinate": "14618",
+                "Width": "50.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "285"
+            },
+            "id": "target_552",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.23819060119818,
+                    22.259644494895774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (18187 14605)",
+                "X co-ordinate": "18187",
+                "Y co-ordinate": "14605",
+                "Width": "240.0",
+                "Length": "130.0",
+                "Category": "Passenger_ship",
+                "ID": "286"
+            },
+            "id": "target_554",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.53486480794463,
+                    22.382781759744407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (18670 14715)",
+                "X co-ordinate": "18670",
+                "Y co-ordinate": "14715",
+                "Width": "40.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "287"
+            },
+            "id": "target_555",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.48673311233885,
+                    22.380692015775853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (16827 15004)",
+                "X co-ordinate": "16827",
+                "Y co-ordinate": "15004",
+                "Width": "180.0",
+                "Length": "120.0",
+                "Category": "Passenger_ship",
+                "ID": "288"
+            },
+            "id": "target_556",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.65745283671062,
+                    22.32451300356892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (13613 15372)",
+                "X co-ordinate": "13613",
+                "Y co-ordinate": "15372",
+                "Width": "40.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "289"
+            },
+            "id": "target_557",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.95731707305279,
+                    22.238310969978183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (19235 15053)",
+                "X co-ordinate": "19235",
+                "Y co-ordinate": "15053",
+                "Width": "30.0",
+                "Length": "40.0",
+                "Category": "Tugs_ship",
+                "ID": "291"
+            },
+            "id": "target_560",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.42671365909696,
+                    22.359433072406297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (19444 15405)",
+                "X co-ordinate": "19444",
+                "Y co-ordinate": "15405",
+                "Width": "40.0",
+                "Length": "30.0",
+                "Category": "Tugs_ship",
+                "ID": "292"
+            },
+            "id": "target_562",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.40035712093886,
+                    22.331172091401204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (12888 15943)",
+                "X co-ordinate": "12888",
+                "Y co-ordinate": "15943",
+                "Width": "30.0",
+                "Length": "20.0",
+                "Category": "Fishing_Ship",
+                "ID": "293"
+            },
+            "id": "target_563",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.0159475230791,
+                    22.17479706998045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Geometry": "POINT (19616 16497)",
+                "X co-ordinate": "19616",
+                "Y co-ordinate": "16497",
+                "Width": "30.0",
+                "Length": "20.0",
+                "Category": "Fishing_Ship",
+                "ID": "295"
+            },
+            "id": "target_566",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.3642595835846,
+                    22.2355305405243
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4269"
+        }
+    }
+}
