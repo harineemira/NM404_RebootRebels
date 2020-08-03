@@ -22,11 +22,16 @@ Displays an image showing the region for which SAR Dataset has been provided.
 ## Ship Detection Output
 The ship detections are displayed on the map. Also, CSV and JSON files for the ship detetctions are available on button click.
 
-<img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/GeoJsonMap.PNG" width="700px">
+<img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/GeoJsonSar.PNG" width="700px">
 
 ## Info Window
 When we click on the ship detections markup, information such as length, width and category of ship will be displayed.
 
 <img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/InfoWindow.PNG" width="700px">
 
+## Image Viewer
 
+<img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer1.JPG" width="700px">
+<img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer2.JPG" width="700px">
+<img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer3.JPG" width="700px">
+<img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer4.JPG" width="700px">
