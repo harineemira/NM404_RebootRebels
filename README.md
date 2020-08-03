@@ -30,7 +30,7 @@ When we click on the ship detections markup, information such as length, width a
 <img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/InfoWindow.PNG" width="700px">
 
 ## Image Viewer
-
+We have created an Image Viewer to view the SAR Ship Detections, so that we don't have to depend on any other software.
 <img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer1.JPG" width="700px">
 <img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer2.JPG" width="700px">
 <img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer3.JPG" width="700px">
