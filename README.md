@@ -1,12 +1,18 @@
 # NM404_RebootRebels
 SIH 2020 (Software Edition)
 
-Download Datasets from:
-[Click here!](https://scihub.copernicus.eu/dhus/#/home)
+###Links for files larger than 100MB are available in largefilelink.txt in this repository, as specified by SIH. 
+[Click here!](https://github.com/harineemira/NM404_RebootRebels/blob/master/largefilelink.txt)
 
-Note:
-- Files Larger than 100MB cannot be uploaded in GitHub.
-- We will be updating changes regularly.
+### Alternatively, you can directly click these links for files larger than 100MB
+[Final Evalation Data Set: It is a RS2 Dataset](https://mdacorporation.com/geospatial/international/satellites/RADARSAT-2/sample-data/RS2_OK76385_PK678076_DK606765_W2_20080814_020027_HH_HV_SGF.zip)
+
+[SENTINAL-1 IW GRD DataSets](https://scihub.copernicus.eu/dhus/#/home)
+
+[Link for the SENTINAL-1 Datasets that we have used](https://drive.google.com/drive/folders/1JVVzUuzrPUjXeWgBJeGRnir2TGM9JM8L?usp=sharing)
+
+[Link for Shape File](https://drive.google.com/file/d/1tV6WT_SnJXrrWnkSKcBoDbIah1axRBbf/view?usp=sharing)
+
 
 ## Preview
 Displays an image showing the region for which SAR Dataset has been provided.
