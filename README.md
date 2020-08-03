@@ -35,3 +35,7 @@ We have created an Image Viewer to view the SAR Ship Detections, so that we don'
 <img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer2.JPG" width="700px">
 <img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer3.JPG" width="700px">
 <img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer4.JPG" width="700px">
+
+## Validation
+<img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/Accuracy.JPG" width="700px">
+
