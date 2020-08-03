@@ -37,7 +37,7 @@ Moreover, the PNG can be opened with existing Photo Viewer itself. User doesn't 
 <img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer2.JPG" width="700px">
 <img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer3.JPG" width="700px">
 <img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer4.JPG" width="700px">
-<img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer5.PNG" width="700px">
+<img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImageViewer5.PNG" width="700px">
 
 ## Validation
 <img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/Accuracy.PNG" width="700px">
