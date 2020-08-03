@@ -39,12 +39,9 @@ When we click on the ship detections markup, information such as length, width a
 We have created an Image Viewer to view the SAR Ship Detections, so that we don't have to depend on any other software.
 Moreover, the PNG can be opened with existing Photo Viewer itself. User doesn't need any specific software.
 
-<img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer1.JPG" width="700px">
-<img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer2.JPG" width="700px">
-<img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer3.JPG" width="700px">
-<img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgViewer4.JPG" width="700px">
-<img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImageViewer5.PNG" width="700px">
+<img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/ImgView.PNG" width="700px">
 
 ## Validation
+
 <img src="https://github.com/harineemira/NM404_RebootRebels/blob/master/output/Snapshots/Accuracy.PNG" width="700px">
 
